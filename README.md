@@ -26,3 +26,6 @@ Hi, I'm Jash Shah, a passionate Data Engineer with a keen interest in building e
 - Implements memory-efficient processing for large datasets
 
 **Technologies Used:** Python, CSV
+
+## Author
+Jash Shah
